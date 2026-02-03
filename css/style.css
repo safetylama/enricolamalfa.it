@@ -9,6 +9,13 @@
   box-sizing: border-box;
 }
 
+.intro {
+  margin-top: 1.2rem;
+  max-width: 42rem;
+  font-size: 1.05rem;
+  color: #333;
+}
+
 body {
   margin: 0;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
